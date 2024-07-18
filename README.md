@@ -1,4 +1,4 @@
 # ViT-IndabaX
 
 ## Introduction to computer vision
-bit.ly/vitIntro 
+[Introduction to Computer Vision](bit.ly/vitIntro) 
